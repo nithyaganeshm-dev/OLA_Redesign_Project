@@ -17,4 +17,4 @@ This project is a conceptual redesign of the OLA Homepage Redesign, showcasing a
 - **Homepage**: Redesigned for easier ride booking. 
 
 ## 📬 Contact  
-Feel free to reach out at nithyaganeshm@gmail.com for feedback or collaboration!  
+Feel free to reach out at (nithyaganeshm@gmail.com) for feedback or collaboration!  
