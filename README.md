@@ -4,7 +4,8 @@
 This project is a conceptual redesign of the OLA Homepage Redesign, showcasing an improved UI/UX design for a better user experience.  
 
 ## 🔗 Figma Prototype  
-View the Prototype Here - https://www.figma.com/proto/bKTnGoHb9WRMho8bc3kpC9/Ganesh_OLA_Design?node-id=0-1&t=XCfPHFFlonBuoWsK-1
+View the Prototype Here,
+[https://www.figma.com/proto/bKTnGoHb9WRMho8bc3kpC9/Ganesh_OLA_Design?node-id=0-1&t=XCfPHFFlonBuoWsK-1]
 
 ## 🌟 Features  
 - **Modern Design**: Sleek and intuitive layout.  
