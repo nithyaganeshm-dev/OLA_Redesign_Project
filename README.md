@@ -7,10 +7,8 @@ This project is a conceptual redesign of the OLA Homepage Redesign, showcasing a
 - **Modern Design**: Sleek and intuitive layout.  
 - **Enhanced Usability**: Simplified navigation and user flow.
 
-## 📂 Files Included  
-- Design files in [Adobe XD/Figma/Sketch] format.  
-- Screenshots of key interfaces.  
-- Exported assets (if applicable).  
+## 📂 Files Included    
+- Screenshot of key interfaces.   
 
 ## 🔧 Tools Used  
 - **Design Tool**: Figma
